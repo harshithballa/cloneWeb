@@ -7,3 +7,34 @@ header {
   height: 100vh;
 
 }
+
+nav img {
+  width: 187px;
+  height: 70px;
+  vertical-align: middle;
+}
+
+nav a.logo {
+  display: inline-block;
+  line-height: 90px;
+  margin-left: 3%;
+}
+
+header nav {
+  height: 90px;
+}
+
+nav a.signin {
+  color: #fff;
+  float: right;
+  background-color: #e50914;
+  line-height: normal;
+  margin-top: 18px;
+  margin-right: 3%;
+  padding: 7px 17px;
+  font-weight: 400;
+  border-radius: 3px;
+  font-size: 16px;
+  text-decoration: none;
+
+}
